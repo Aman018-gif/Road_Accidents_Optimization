@@ -23,7 +23,7 @@ Make sure the following files are in the **same folder**:
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run 
 
 Run the Python script using:
 
